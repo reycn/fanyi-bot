@@ -1,0 +1,13 @@
+{
+	"name": "bot",
+	"cwd": "/root/bot/",
+	"script": "main.py",
+	"interpreter": "python3",
+	"instances": 1,
+	"autorestart": true,
+	"watch": false,
+	"max_memory_restart": "256M",
+	"pid": "log/fanyi_bot.pid",
+	"out_file": "log/app-out.log",
+	"error_file": "log/app-err.log"
+}
