@@ -26,4 +26,4 @@ requests == 2.22.0
 sentry_sdk == 1.5.8
 
 # bot/api/google_trans_new_modified/google_trans_new.py: 6
-urllib3 == 1.25.8
+urllib3 == 1.26.5
