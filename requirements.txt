@@ -23,7 +23,7 @@ requests == 2.22.0
 # bot/api/balancer.py: 21
 # bot/main.py: 10
 # bot/tool/config.py: 5
-sentry_sdk == 1.5.8
+sentry_sdk == 1.14.0
 
 # bot/api/google_trans_new_modified/google_trans_new.py: 6
 urllib3 == 1.25.8
